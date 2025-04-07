@@ -1,0 +1,11 @@
+C:\Users\umut_\source\repos\Ders1\aracKiralama\bin\Debug\aracKiralama.exe.config
+C:\Users\umut_\source\repos\Ders1\aracKiralama\bin\Debug\aracKiralama.exe
+C:\Users\umut_\source\repos\Ders1\aracKiralama\bin\Debug\aracKiralama.pdb
+C:\Users\umut_\source\repos\Ders1\aracKiralama\obj\Debug\aracKiralama.csproj.AssemblyReference.cache
+C:\Users\umut_\source\repos\Ders1\aracKiralama\obj\Debug\aracKiralama.Form1.resources
+C:\Users\umut_\source\repos\Ders1\aracKiralama\obj\Debug\aracKiralama.Properties.Resources.resources
+C:\Users\umut_\source\repos\Ders1\aracKiralama\obj\Debug\aracKiralama.csproj.GenerateResource.cache
+C:\Users\umut_\source\repos\Ders1\aracKiralama\obj\Debug\aracKiralama.csproj.CoreCompileInputs.cache
+C:\Users\umut_\source\repos\Ders1\aracKiralama\obj\Debug\aracKiralama.exe
+C:\Users\umut_\source\repos\Ders1\aracKiralama\obj\Debug\aracKiralama.pdb
+C:\Users\umut_\source\repos\Ders1\aracKiralama\obj\Debug\aracKiralama.Form2.resources
